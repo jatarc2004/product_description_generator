@@ -1,0 +1,8 @@
+Gradio
+langchain
+openai
+langchain-community
+gradio
+azure-cognitiveservices-vision-computervision
+azure-ai-formrecognizer
+azure-ai-textanalytics
