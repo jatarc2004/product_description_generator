@@ -21,7 +21,7 @@ pip install -r requirements.txt
 <br><br>
 Now, run the app from the terminal:<br>
 ```python
-gradio app.py
+gradio login.py
 ```
 
 # MS-AI Hackathon Project by Team : Infinite Joint Loop
