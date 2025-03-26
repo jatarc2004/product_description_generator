@@ -25,7 +25,3 @@ gradio login.py
 ```
 
 # MS-AI Hackathon Project by Team : Infinite Joint Loop
-
-:herb: :smiley: :herb:
-
-
